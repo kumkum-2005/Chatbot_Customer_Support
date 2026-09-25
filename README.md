@@ -55,7 +55,8 @@ Response generated
 Response displayed to use
 
 
-###📂 Project Structure
+## 📂 Project Structure
+
 ```text
 Chatbot_Customer_Support/
 │
