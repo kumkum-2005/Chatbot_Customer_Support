@@ -67,3 +67,17 @@ Chatbot_Customer_Support/
 ├── predict.py
 ├── requirements.txt
 └── README.md
+```
+
+## 🚀 Installation
+1. Clone the Repository
+  git clone https://github.com/kumkum-2005/Chatbot_Customer_Support.git
+
+2. Open the Project
+  cd Chatbot_Customer_Support
+
+3. Install Required Libraries
+  pip install -r requirements.txt
+
+4. Run the Application
+  python app.py
