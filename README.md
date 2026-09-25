@@ -53,39 +53,5 @@ Find suitable response
 Response generated
         ↓
 Response displayed to user
-```text
 
-📂 Project Structure
 
-Chatbot_Customer_Support/
-│
-├── data/
-│   └── Dataset files
-│
-├── models/
-│   └── Trained model files
-│
-├── static/
-│   ├── CSS files
-│   └── JavaScript files
-│
-├── templates/
-│   └── HTML files
-│
-├── app.py
-├── chatbot.py
-├── chatbot_gui.py
-├── predict.py
-├── requirements.txt
-└── README.md
-
-###File Description
-app.py – Runs the web application.
-chatbot.py – Contains chatbot logic.
-chatbot_gui.py – Provides the chatbot GUI/interface.
-predict.py – Performs prediction for user queries.
-data/ – Contains chatbot dataset.
-models/ – Contains trained machine learning models.
-static/ – Contains CSS and JavaScript files.
-templates/ – Contains HTML pages.
-requirements.txt – Contains required Python libraries.
