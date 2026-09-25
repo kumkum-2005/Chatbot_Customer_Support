@@ -78,15 +78,15 @@ Chatbot_Customer_Support/
 ```bash
  cd Chatbot_Customer_Support
 ```
-###3. Install Required Libraries
+### 3. Install Required Libraries
 ```bash
  pip install -r requirements.txt
 ```   
-###5. Run the Application
+### 4. Run the Application
 ```bash
   python app.py
 ```
-###6. Open in Browser
+### 5. Open in Browser
 ```bash
   http://127.0.0.1:5000/
 ```      
