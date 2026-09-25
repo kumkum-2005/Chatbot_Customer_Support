@@ -39,7 +39,6 @@ The project includes a web-based interface and trained chatbot models for handli
 
 ## ⚙️ How It Works
 
-```text
 User enters a query
         ↓
 Chatbot receives the query
@@ -53,12 +52,9 @@ Find suitable response
 Response generated
         ↓
 Response displayed to use
-|
 
 ## 📂 Project Structure
 
-
-```text
 Chatbot_Customer_Support/
 │
 ├── data/
@@ -80,4 +76,3 @@ Chatbot_Customer_Support/
 ├── predict.py
 ├── requirements.txt
 └── README.md
-
