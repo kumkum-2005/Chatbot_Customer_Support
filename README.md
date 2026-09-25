@@ -53,9 +53,7 @@ Find suitable response
 Response generated
         ↓
 Response displayed to use
-
-
-
+|
 
 ## 📂 Project Structure
 
