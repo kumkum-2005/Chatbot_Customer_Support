@@ -52,5 +52,29 @@ Find suitable response
         ↓
 Response generated
         ↓
-Response displayed to user
+Response displayed to use
+
+📂 Project Structure
+```
+Chatbot_Customer_Support/
+│
+├── data/
+│   └── Dataset files
+│
+├── models/
+│   └── Trained model files
+│
+├── static/
+│   ├── CSS files
+│   └── JavaScript files
+│
+├── templates/
+│   └── HTML files
+│
+├── app.py
+├── chatbot.py
+├── chatbot_gui.py
+├── predict.py
+├── requirements.txt
+└── README.md
 
