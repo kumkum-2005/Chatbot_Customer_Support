@@ -53,6 +53,7 @@ Find suitable response
 Response generated
         ↓
 Response displayed to user
+```text
 
 📂 Project Structure
 
