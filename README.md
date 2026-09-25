@@ -68,6 +68,28 @@ Chatbot_Customer_Support/
 ├── requirements.txt
 └── README.md
 ```
+## 🚀 Installation
+
+### 1. Clone the Repository
+```bash
+ git clone https://github.com/kumkum-2005/Chatbot_Customer_Support.git
+```
+### 2. Open the Project
+```bash
+ cd Chatbot_Customer_Support
+```
+###3. Install Required Libraries
+```bash
+ pip install -r requirements.txt
+```   
+###5. Run the Application
+```bash
+  python app.py
+```
+###6. Open in Browser
+```bash
+  http://127.0.0.1:5000/
+```      
 ## 🌍 Real-World Applications
 - Customer support
 - E-commerce websites
