@@ -77,3 +77,12 @@ Chatbot_Customer_Support/
 - Product support
 - Educational support
 
+## 🔮 Future Enhancements
+- Voice-based chatbot
+- Multilingual support
+- Chat history
+- Sentiment analysis
+- Database integration
+- WhatsApp/Telegram integration
+- Generative AI integration
+- Cloud deployment
