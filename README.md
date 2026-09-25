@@ -49,3 +49,21 @@ Query prediction
 Find suitable response
         ↓
 Display response to the user
+```
+
+## 📂 Project Structure
+
+```text
+Chatbot_Customer_Support/
+│
+├── data/
+├── models/
+├── static/
+├── templates/
+│
+├── app.py
+├── chatbot.py
+├── chatbot_gui.py
+├── predict.py
+├── requirements.txt
+└── README.md
