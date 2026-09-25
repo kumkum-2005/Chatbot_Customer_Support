@@ -2,32 +2,40 @@
 
 ## 📌 Project Overview
 
-Chatbot Customer Support is a simple chatbot application that provides automated responses to common customer queries. It helps users get quick support without requiring a human representative for basic questions.
+Chatbot Customer Support is an AI-based chatbot project developed using Python and Machine Learning. It is designed to understand customer queries and provide suitable responses automatically.
+
+The project includes a web-based interface and trained chatbot models for handling customer support queries.
 
 ## 🎯 Objective
 
-* Provide quick and automated customer support.
-* Answer frequently asked questions.
-* Reduce repetitive customer support tasks.
-* Improve user interaction and response time.
+- Develop an automated customer support chatbot.
+- Understand user/customer queries.
+- Provide appropriate responses to common questions.
+- Reduce repetitive customer support tasks.
+- Provide quick and easy customer assistance.
 
 ## ✨ Features
 
-* Simple chatbot interface
-* Automated responses
-* Customer query handling
-* User-friendly design
-* Fast responses
-* Easy to use
+- 🤖 AI-based customer support chatbot
+- 💬 Interactive chat interface
+- 🧠 Query processing using NLP
+- 📚 Trained chatbot model
+- ⚡ Fast response generation
+- 🌐 Web-based interface
+- 🖥️ Simple and user-friendly design
 
 ## 🛠️ Technologies Used
 
-* **Python** – Backend development
-* **Flask** – Web application framework
-* **HTML** – Web page structure
-* **CSS** – Website styling
-* **JavaScript** – Interactive chatbot functionality
-* **NLP** – Basic text/query processing
+- **Python**
+- **Machine Learning**
+- **Natural Language Processing (NLP)**
+- **Flask**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Scikit-learn**
+- **NumPy**
+- **Pandas**
 
 ## ⚙️ How It Works
 
@@ -36,88 +44,47 @@ User enters a query
         ↓
 Chatbot receives the query
         ↓
-Query is processed
+Text preprocessing
         ↓
-Matching response is identified
+Query / Intent prediction
         ↓
-Response is displayed to the user
-```
+Find suitable response
+        ↓
+Response generated
+        ↓
+Response displayed to user
 
-## 📂 Project Structure
+📂 Project Structure
 
-```text
 Chatbot_Customer_Support/
 │
-├── app.py
-├── requirements.txt
-├── README.md
+├── data/
+│   └── Dataset files
+│
+├── models/
+│   └── Trained model files
+│
+├── static/
+│   ├── CSS files
+│   └── JavaScript files
 │
 ├── templates/
-│   └── index.html
+│   └── HTML files
 │
-└── static/
-    ├── style.css
-    └── script.js
-```
+├── app.py
+├── chatbot.py
+├── chatbot_gui.py
+├── predict.py
+├── requirements.txt
+└── README.md
 
-## 🚀 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/kumkum-2005/Chatbot_Customer_Support.git
-```
-
-### 2. Open the Project
-
-```bash
-cd Chatbot_Customer_Support
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Application
-
-```bash
-python app.py
-```
-
-### 5. Open in Browser
-
-Open the local URL shown in the terminal, usually:
-
-```text
-http://127.0.0.1:5000/
-```
-
-## 🌍 Real-World Applications
-
-* E-commerce customer support
-* Online service platforms
-* FAQ systems
-* Help desk systems
-* Banking customer support
-* Educational support systems
-* Product support
-
-## 🔮 Future Enhancements
-
-* Voice-based chatbot
-* Multilingual chatbot
-* Chat history
-* Database integration
-* Sentiment analysis
-* AI/LLM integration
-* WhatsApp or Telegram integration
-* Human-agent support integration
-
-## 👩‍💻 Author
-
-**Kumkum Kumari**
-
-B.Tech CSE | Artificial Intelligence & Machine Learning
-
+###File Description
+app.py – Runs the web application.
+chatbot.py – Contains chatbot logic.
+chatbot_gui.py – Provides the chatbot GUI/interface.
+predict.py – Performs prediction for user queries.
+data/ – Contains chatbot dataset.
+models/ – Contains trained machine learning models.
+static/ – Contains CSS and JavaScript files.
+templates/ – Contains HTML pages.
+requirements.txt – Contains required Python libraries.
