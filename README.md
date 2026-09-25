@@ -1,8 +1,51 @@
 # 🤖 Chatbot Customer Support
 
 ## 📌 Project Overview
-Chatbot Customer Support is an AI/ML-based chatbot project developed using Python. It is designed to understand customer queries and provide suitable responses automatically.
 
-The project can be used to automate common customer-support questions and provide quick responses to users.
+Chatbot Customer Support is a simple AI-based chatbot developed using Python. It helps users by answering common customer queries automatically and provides quick responses.
 
 ## 🎯 Objective
+
+- To provide automated customer support.
+- To understand basic customer queries.
+- To provide suitable responses.
+- To reduce repetitive customer support tasks.
+- To improve response time.
+
+## ✨ Features
+
+- Interactive chatbot
+- Automatic responses
+- Customer query processing
+- Simple and user-friendly interface
+- Fast responses
+- AI/ML-based prediction
+- Web-based chatbot
+
+## 🛠️ Technologies Used
+
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Scikit-learn
+- Pandas
+- NumPy
+
+## ⚙️ How It Works
+
+```text
+User enters a query
+        ↓
+Chatbot receives the query
+        ↓
+Text preprocessing
+        ↓
+Query prediction
+        ↓
+Find suitable response
+        ↓
+Display response to the user
